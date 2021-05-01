@@ -6,7 +6,7 @@ nutritional importance and major health benefits. With the broad diversity of li
 and classify mushrooms. Given their high value important properties and also risks assocaited with their poisonous traits, we believe that it is highly beneficial and i
 mportant for the society and people doing various researches regarding this subject matter to be able to differnetialte mushroom classes and genes.
 # Data Source
-We used the Mushroom Data Set that we found from the open source UCL machine learning repository as a baseline to construct our models. The origin of this data set constituted from  mushroom records drawn from *The Audubon Society Field Guide to North American Mushrooms (1981). G. H. Lincoff (Pres.), New York: Alfred A. Knopf*.
+We used the Mushroom Data Set that we found from the open source UCL machine learning repository as a baseline to construct our models. The origin of this data set is constituted from  mushroom records drawn from *The Audubon Society Field Guide to North American Mushrooms (1981). G. H. Lincoff (Pres.), New York: Alfred A. Knopf*.
 This data set includes descriptions of hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family and describes mushrooms in terms of their physical characterstics and classifies them as poisonous or edible. 
 
 ***Link to original data set:*** https://archive.ics.uci.edu/ml/datasets/mushroom
